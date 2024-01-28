@@ -1,0 +1,10 @@
+
+.item {
+    color: f;
+}
+
+.item img {
+    width: 120px;
+    height: 70px;
+    border-radius: 20px;
+}
